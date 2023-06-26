@@ -4,7 +4,7 @@ var markers = [];
 // load map
 function init(){
 	var myOptions = {
-		//add your Google Maps API Map ID to line 15 after the =
+		//add your Google Maps API Map ID to line 15 after the mapId:
 		mapId: "",
 		zoom      : 14,
 		center    : { lat:42.353350,lng:-71.091525},
