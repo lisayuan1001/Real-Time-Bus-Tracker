@@ -4,7 +4,8 @@ Real Time Bus Tracker
 ## Description of project
 This is a course project that is intended to practice how to use asynchronous functions to fetch data, and how to use APIs with other platforms such as map tools and government databases. 
 ## How to run
-You need to enter your own Google Maps JavaScript API and Map ID in the code and the map will automatically run every 15 seconds to show the real-time location of the bus that connects Harvard and MIT.
+You need to enter your own Google Maps JavaScript API key and Map ID in the code and the map will automatically run every 15 seconds to show the real-time location of the bus that connects Harvard and MIT.
+Included in the repository is a screen recording when it runs with the API key and Map ID connected.
 ## Roadmap of future improvements
 Show other bus lines.
 ## License information
